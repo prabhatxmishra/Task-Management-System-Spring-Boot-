@@ -9,14 +9,14 @@ A full-stack Todo / Task Management web application built using Spring Boot foll
 • JSP-based UI with JSTL for dynamic rendering
 • Integration with H2 (in-memory) and MySQL database
 
-#Tech Stack:
+# Tech Stack:
 Backend: Spring Boot, Spring MVC  
 Frontend: JSP, JSTL, Bootstrap (WebJars)  
 Database: H2 (for development), MySQL (via Docker)  
 ORM: Spring Data JPA, Hibernate  
 Build Tool: Maven  
 
-#Key Concepts Demonstrated:
+# Key Concepts Demonstrated:
 • Spring Boot project structure and auto-configuration
 • Request flow (DispatcherServlet → Controller → View)
 • MVC architecture (Controller-Service-Repository)
@@ -25,7 +25,7 @@ Build Tool: Maven
 • Session handling using @SessionAttributes / HttpSession
 • Database interaction using JPA and JpaRepository
 
-#How to Run:
+# How to Run:
 1. Clone the repository
 2. Start MySQL using Docker:
 
